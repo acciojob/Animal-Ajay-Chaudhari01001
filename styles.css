@@ -1,4 +1,8 @@
-.container {
+
+		h1 {
+			text-align: center;
+		}
+		.container {
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: center;
