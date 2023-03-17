@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-items: center;
+			margin-top: 20px;
+		}
+
+		.container img {
+			width: 200px;
+			height: 200px;
+			object-fit: cover;
+			margin: 10px;
+		}
